@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ContainerappsAlbumapiJavaApplication {
+public class AlbumApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ContainerappsAlbumapiJavaApplication.class, args);
+		SpringApplication.run(AlbumApplication.class, args);
 	}
 
 }
